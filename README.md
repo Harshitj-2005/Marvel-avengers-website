@@ -1,12 +1,13 @@
 <h1>Marvel Avengers Fan Website</h1>
-<p>A fan-created website dedicated to Marvel's Avengers universe. Explore detailed information about your favorite Avengers, their stories, powers, and gadgets. Stay updated with the latest news, watch trailers, and dive into the world of superheroes!<\p>
+<p>A fan-created website dedicated to Marvel's Avengers universe. Explore detailed information about your favorite Avengers, their stories, powers, and gadgets. Stay updated with the latest news, watch trailers, and dive into the world of superheroes!</p>
 
-Features:
-=> Avengers Profiles: Comprehensive profiles of all Avengers, including their origins, powers, and significant achievements.
-=> Multimedia Gallery: High-quality images, trailers, and videos of Marvel movies and series.
-=> Interactive Timeline: Discover the chronological order of events in the Marvel Cinematic Universe.
-=> News and Updates: Latest Marvel announcements, events, and movie releases.
-=> Fan Zone: Engage with quizzes, trivia, and community forums.
+Features:<ul>
+<li>Avengers Profiles: Comprehensive profiles of all Avengers, including their origins, powers, and significant achievements.</li>
+<li>Multimedia Gallery: High-quality images, trailers, and videos of Marvel movies and series.</li>
+<li>Interactive Timeline: Discover the chronological order of events in the Marvel Cinematic Universe.</li>
+<li>News and Updates: Latest Marvel announcements, events, and movie releases.</li>
+<li>Fan Zone: Engage with quizzes, trivia, and community forums.</li>
+</ul>
 
 Technologies Used:
 => HTML, CSS
