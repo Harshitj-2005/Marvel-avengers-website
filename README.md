@@ -1,5 +1,5 @@
 # Marvel-avengers-website
-Marvel Avengers Fan Website.
+<h1>Marvel Avengers Fan Website</h1>
 A fan-created website dedicated to Marvel's Avengers universe. Explore detailed information about your favorite Avengers, their stories, powers, and gadgets. Stay updated with the latest news, watch trailers, and dive into the world of superheroes!
 
 Features:
@@ -11,4 +11,5 @@ Features:
 
 Technologies Used:
 => HTML, CSS
+
 <img width="494" alt="scree" src="https://github.com/user-attachments/assets/d2223fe8-e37a-40f0-9bef-c52b4af73df4" />
