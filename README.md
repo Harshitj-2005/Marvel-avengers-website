@@ -10,7 +10,29 @@
 <li>Fan Zone: Engage with quizzes, trivia, and community forums.</li>
 </ul>
 
-Technologies Used:
-=> HTML, CSS
-
+<h3>Technologies Used:</h3>
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+</ul>
 <img width="494" alt="scree" src="https://github.com/user-attachments/assets/d2223fe8-e37a-40f0-9bef-c52b4af73df4" />
+<br>
+<img width="960" alt="11" src="https://github.com/user-attachments/assets/f0899746-7fc8-4aa6-a530-e137ea4d5f48" />
+<br>
+<img width="960" alt="1 1" src="https://github.com/user-attachments/assets/6256ffdf-f7bd-4219-af4e-182ddfdd544a" />
+<br>
+<img width="960" alt="1 2" src="https://github.com/user-attachments/assets/5f80a557-7f72-4130-9285-e1d09bcd9139" />
+<br>
+<img width="960" alt="1 3" src="https://github.com/user-attachments/assets/6857a95e-a8a0-4693-b4c6-297d307bbdce" />
+<br>
+<img width="960" alt="1 4" src="https://github.com/user-attachments/assets/ac21a6cd-ce5a-4b4e-b9bd-94df1648557c" />
+<br>
+<img width="960" alt="1 5" src="https://github.com/user-attachments/assets/211a908a-6fb4-4d67-a71f-16741c7e8b5e" />
+<br>
+<img width="960" alt="1 6" src="https://github.com/user-attachments/assets/590b23ba-0865-4e24-9802-f4c326d82702" />
+<br>
+<img width="960" alt="1 7" src="https://github.com/user-attachments/assets/f010684d-91ea-4c89-83a6-92f9716a2a83" />
+<br>
+<img width="960" alt="1 8" src="https://github.com/user-attachments/assets/6b9a08c0-306f-4d9f-8a70-f85b0f771714" />
+
+
