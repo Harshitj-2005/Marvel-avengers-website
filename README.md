@@ -16,7 +16,7 @@
 <li>CSS</li>
 </ul>
 <img width="494" alt="scree" src="https://github.com/user-attachments/assets/d2223fe8-e37a-40f0-9bef-c52b4af73df4" />
-<br>
+</br>
 <img width="960" alt="11" src="https://github.com/user-attachments/assets/f0899746-7fc8-4aa6-a530-e137ea4d5f48" />
 <br>
 <img width="960" alt="1 1" src="https://github.com/user-attachments/assets/6256ffdf-f7bd-4219-af4e-182ddfdd544a" />
