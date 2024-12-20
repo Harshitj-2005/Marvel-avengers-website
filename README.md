@@ -15,7 +15,7 @@
 <li>HTML</li>
 <li>CSS</li>
 </ul>
-<h1 style="text-align: center;">SREEN SHOTS:</h1>
+<h1>SREEN SHOTS :</h1>
 <br>
 <img width="960" alt="11" src="https://github.com/user-attachments/assets/f0899746-7fc8-4aa6-a530-e137ea4d5f48" />
 <hr>
@@ -34,3 +34,7 @@
 <img width="960" alt="1 7" src="https://github.com/user-attachments/assets/f010684d-91ea-4c89-83a6-92f9716a2a83" />
 <hr>
 <img width="960" alt="1 8" src="https://github.com/user-attachments/assets/6b9a08c0-306f-4d9f-8a70-f85b0f771714" />
+<br>
+<h1>Conclusion</h1>
+<p>We hope you enjoy exploring this Marvel Avengers Fan Website as much as we enjoyed building it! This project is a tribute to the incredible Marvel universe and its fans worldwide. If you have any feedback, suggestions, or would like to contribute, feel free to reach out or create a pull request. Together, let's make this project even better!. Contributions are welcome!</p>
+
