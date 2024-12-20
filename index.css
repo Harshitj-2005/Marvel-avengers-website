@@ -1,0 +1,180 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-repeat: no-repeat;
+}
+.navbar{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: small;
+    background-color: black;
+    display:flex;
+    justify-content: space-between;
+    border: 2px transparent;
+    position: static;
+    width: 100%;
+}
+.navbar li{
+    float: left;
+    list-style-type: none;
+    padding: 20px;
+    margin-right: 20px;
+    margin-top: 3px;
+}
+.navbar a{
+    text-decoration: none;
+    color: white;
+    font-weight: 500;
+    font-size: 15px;
+}
+.logo img{
+    width: 150px;
+    height: 55px;
+    padding: 5px;
+    margin-left: 10px;
+    
+}
+.dial {
+    position: relative;
+}
+
+.dial img {
+    width: 100%;
+    height: 450px;
+    object-fit: cover;
+}
+
+.dial .content {
+    position: absolute; 
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: white;
+    padding: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+.content span{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    font-size: 250px;
+}
+
+.boxes{
+    padding: 5% 10% 10% 10%;
+}
+.boxes p{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 800;
+    font-size: 50px;
+}
+.box{
+    border: 1px transparent;
+    width: 225px;
+    height: 310px;
+    margin: 1vw;
+    float: left;
+}
+.box img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+.box img:hover{
+    transform: translateY(-10px);
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+}
+.quiz {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    width: 500px;
+    text-align: center;
+    border: 2px solid;
+    margin: 0 auto;
+}
+.quiz a{
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 500;
+}
+.copyright{
+    border: 1px solid;
+    width: 100%;
+    height: 200px;
+    background-color: black;
+}
+.copyright p{
+    color: white;
+    margin-top: 150px;
+    margin-left: 35%;
+    font-family: 'Courier New', Courier, monospace;
+}
+/* @media screen and (max-width: 1366px) and (max-height: 768px) {
+    .navbar {
+        font-size: 14px;
+        padding: 8px 15px;
+    }
+    .navbar li {
+        padding: 10px;
+        margin-right: 15px;
+    }
+    .navbar a {
+        font-size: 13px;
+    }
+    .logo img {
+        width: 120px;
+        height: 45px;
+    }
+
+    .dial img {
+        height: 450px;
+    }
+    .dial .content span {
+        font-size: 150px;
+    }
+    .dial .content {
+        font-size: 18px;
+        padding: 10px;
+    }
+
+    .boxes {
+        padding: 5% 8%;
+    }
+    .boxes p {
+        font-size: 40px;
+    }
+    .box {
+        width: 180px;
+        height: 250px;
+    }
+
+    .quiz {
+        width: 400px;
+        height: 50px;
+        border: 2px solid;
+        font-size: 14px;
+    }
+    .quiz a {
+        font-size: 14px;
+    }
+
+    .copyright {
+        height: 150px;
+    }
+    .copyright p {
+        font-size: 12px;
+        margin-top: 100px;
+        margin-left: 35%;
+    }
+} */
+
+

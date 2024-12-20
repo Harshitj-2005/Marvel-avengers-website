@@ -1,0 +1,108 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.navbar {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: small;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    border: 2px transparent;
+    position: static;
+    width: 100%;
+}
+
+.navbar li {
+    float: left;
+    list-style-type: none;
+    padding: 20px;
+    margin-right: 20px;
+    margin-top: 3px;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: white;
+    font-weight: 500;
+    font-size: 15px;
+}
+
+.logo img {
+    width: 150px;
+    height: 55px;
+    padding: 5px;
+    margin-left: 10px;
+}
+.play video {
+    width: 100%;
+    height: 500px;
+    object-fit: cover;
+}
+.character p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 60px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.boxes {
+    margin: 2% 10% 10% 10%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+.box {
+    position: relative;
+    width: 225px;
+    height: 310px;
+    margin: 1vw;
+    overflow: hidden;
+}
+
+.box img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.box img:hover {
+    transform: scale(1.05);
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+}
+
+.box .description {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(25, 24, 29, 0.8);
+    color: white;
+    font-family: 'Arial', sans-serif;
+    font-size: 12px;
+    font-weight: 300;
+    text-align: center;
+    padding: 10px;
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
+}
+
+.box:hover .description {
+    opacity: 1;
+}
+.copyright{
+    border: 1px solid;
+    width: 100%;
+    height: 200px;
+    background-color: black;
+}
+.copyright p{
+    color: white;
+    margin-top: 150px;
+    margin-left: 35%;
+    font-family: 'Courier New', Courier, monospace;
+}
