@@ -15,7 +15,7 @@
 <li>HTML</li>
 <li>CSS</li>
 </ul>
-<h1>                                                                     SREEN SHOTS</h1>  
+<h1>SREEN SHOTS</h1> <style>textalign : centre</style>
 </br>
 <img width="960" alt="11" src="https://github.com/user-attachments/assets/f0899746-7fc8-4aa6-a530-e137ea4d5f48" />
 <br>
